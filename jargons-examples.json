@@ -1,0 +1,106 @@
+{
+  "Disc": {
+    "Jargon": {
+      "-NtwNu_nkhvoqd5NFWc7": {
+        "jargonCategorie": "Medical",
+        "jargonDefinition": "is the production of red blood cells in the bone marrow, regulated by the hormone erythropoietin.",
+        "jargonName": "Erythropoiesis"
+      },
+      "-NtwQbSI2hitlHwxES-R": {
+        "jargonCategorie": "Computer Science",
+        "jargonDefinition": "is a set of instructions designed to perform a specific task or solve a problem, often implemented as a computer program.",
+        "jargonName": "Algorithm"
+      },
+      "-NtwRCm_2MyZZ7Ae1cet": {
+        "jargonCategorie": "Sport",
+        "jargonDefinition": "is when a player scores three goals or achieves a similar notable feat in a single game or event.",
+        "jargonName": "Hat-trick"
+      },
+      "-NtwRM4JIz_iYrAk84gM": {
+        "jargonCategorie": "Cinema",
+        "jargonDefinition": "Montage is a film editing technique where short shots are combined to condense time, space, or information, often used to convey emotion or advance the narrative.",
+        "jargonName": "Montage"
+      },
+      "-NtwRhHJBK94gvf5ANPg": {
+        "jargonCategorie": "Business",
+        "jargonDefinition": "refers to the movement of money into and out of a business, reflecting its liquidity and financial health.",
+        "jargonName": "Cash Flow"
+      },
+      "-Ntx22o1sR5V6ViUjCef": {
+        "jargonCategorie": "Legal",
+        "jargonDefinition": "A subpoena is a legal document that requires an individual to appear in court or produce evidence for a legal proceeding.",
+        "jargonName": "Subpoena"
+      },
+      "-Ntx2FFwplMZZ41i5UjA": {
+        "jargonCategorie": "Psychology",
+        "jargonDefinition": "is a defense mechanism where an individual attributes their own undesirable feelings or qualities onto another person.",
+        "jargonName": "Projection"
+      },
+      "-Ntx2V0J7bUfXvXoK1A5": {
+        "jargonCategorie": "Finance",
+        "jargonDefinition": "Leverage is the use of borrowed funds to increase the potential return of an investment.",
+        "jargonName": "Leverage"
+      },
+      "-Ntx2fr0dWE8eVrOWInJ": {
+        "jargonCategorie": "Environmental Science",
+        "jargonDefinition": "Global warming is the long-term increase in Earth's average surface temperature, primarily due to human activities such as burning fossil fuels and deforestation.",
+        "jargonName": "Global Warming"
+      },
+      "-Ntx2mrhVSsM9RZzP2xV": {
+        "jargonCategorie": "Music",
+        "jargonDefinition": "Pitch refers to the perceived frequency of a sound, which determines its highness or lowness.",
+        "jargonName": "Pitch"
+      },
+      "-Ntx2rywUUpIYzyO4Y9b": {
+        "jargonCategorie": "Education",
+        "jargonDefinition": "STEM stands for Science, Technology, Engineering, and Mathematics, representing an interdisciplinary approach to learning and problem-solving.",
+        "jargonName": "STEM"
+      },
+      "-Ntx32d_fv20jEAnqWVt": {
+        "jargonCategorie": "Marketing",
+        "jargonDefinition": "Brand equity is the perceived value and reputation that a brand has earned over time, which influences consumer behavior and purchasing decisions.",
+        "jargonName": "Brand Equity"
+      },
+      "-Ntx38Y4drnOeKHLL_Dl": {
+        "jargonCategorie": "Artificial Intelligence",
+        "jargonDefinition": "Machine learning is a subset of artificial intelligence that enables computer systems to learn from data and improve performance without being explicitly programmed.",
+        "jargonName": "Machine Learning"
+      },
+      "-Ntx3AoC2O6cShQjcgX0": {
+        "jargonCategorie": "Economics",
+        "jargonDefinition": "Supply and demand is an economic model that describes the relationship between the availability of a product and the desire of consumers to purchase it, determining its price.",
+        "jargonName": "Supply and Demand"
+      },
+      "-Ntx3L0SeUnwRXiMmiYY": {
+        "jargonCategorie": "Food",
+        "jargonDefinition": "Umami is one of the five basic tastes, characterized by a savory or meaty flavor, often found in foods such as tomatoes, mushrooms, and aged cheeses.",
+        "jargonName": "Umami"
+      },
+      "-Ntx3SYxxyXTno7Oo0Dy": {
+        "jargonCategorie": "Astronomy",
+        "jargonDefinition": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it.",
+        "jargonName": "Black Hole"
+      },
+      "-Ntx3bC95_BcZ5Yr_MZ9": {
+        "jargonCategorie": "Engineering",
+        "jargonDefinition": "An algorithm is a step-by-step procedure or set of rules to solve a problem or perform a specific task, typically implemented as a computer program.",
+        "jargonName": "Algorithm"
+      },
+      "-Ntx3h1jbFHo-1mP0B4R": {
+        "jargonCategorie": "Architecture",
+        "jargonDefinition": "Feng shui is a traditional Chinese practice that aims to harmonize individuals with their environment through the arrangement of buildings, objects, and space.",
+        "jargonName": "Feng Shui"
+      },
+      "-Ntx3oX2n0NY6gXicVaV": {
+        "jargonCategorie": "Chemistry",
+        "jargonDefinition": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process.",
+        "jargonName": "Catalyst"
+      },
+      "-Ntx3uSttxLsYyXIrnhE": {
+        "jargonCategorie": "Medicine",
+        "jargonDefinition": "is a technique used in medical imaging to produce detailed images of the body's internal structures, often used for diagnosing and monitoring medical conditions.",
+        "jargonName": "MRI (Magnetic Resonance Imaging)"
+      }
+    }
+  }
+}
